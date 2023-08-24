@@ -1,6 +1,6 @@
 ## Olá! eu sou Fabricio Bonete.👋
 
-- 🔭 Trabalho com Fullstack developer Web ...
+- 🔭 Trabalho com Fullstack Developer Web ...
 - 🌱 Estudo TypeScript | React | NodeJs | Java | Prisma | Sequelize | PostgreSQL | Docker
 
 ## 
