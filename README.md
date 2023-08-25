@@ -21,7 +21,3 @@
   <img align="center" alt="Fabi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-
-
-
-![Snake animation](https://github.com/moreiraKenpachi/moreiraKenpachi/blob/output/github-contribution-grid-snake.svg)
