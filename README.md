@@ -5,9 +5,7 @@
 
 ## 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiraKenpachi&show_icons=true&theme=transparent)
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraKenpachi&langs_count=8&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiraKenpachi&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraKenpachi&langs_count=8&theme=transparent)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
