@@ -1,7 +1,7 @@
 ## Olá! eu sou Fabricio Bonete.👋
 
 - 🔭 Trabalho com Fullstack Developer Web ...
-- 🌱 Estudo TypeScript | React | NodeJs | Java | Prisma | Sequelize | PostgreSQL | Docker | Nunjucks | Tailwinds | NestJS
+- 🌱 Estudo TypeScript | React | NodeJs | Java | Prisma | Sequelize | TypeOrm | PostgreSQL | Docker | Nunjucks | Tailwinds | NestJS
 
 ## 
 
